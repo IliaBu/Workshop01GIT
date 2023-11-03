@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2246cc2-ac5b-4f7c-9fbc-36498b6e7f43" name="Changes" comment="Create code, images">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Java/console_program.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Java/diagram.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Java/diagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Java/diagram_start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/linux/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sql/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Base/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/AddAnimalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/DetailAnimalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/StudyCamelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/StudyCatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/StudyDogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/StudyDonkeyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/StudyHamsterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Application/Services/StudyHorseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Base/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Base/AnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Base/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Base/IAnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Base/PackAnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Base/PetsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/PackAnimals/Camel/Camel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/PackAnimals/Camel/CamelAnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/PackAnimals/Donkey/Donkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/PackAnimals/Donkey/DonkeyAnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/PackAnimals/Horse/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/PackAnimals/Horse/HorseAnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Pets/Cat/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Pets/Cat/CatAnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Pets/Dog/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Pets/Dog/DogAnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Pets/Hamster/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Domain/Pets/Hamster/HamsterAnimalCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/AnimalFabric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/DB/AnimalDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/DB/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/Shared/DateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/Shared/ICreatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/Shared/IEducable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Infrastructure/Shared/IExecutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/AddAnimalPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/MainPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/StudyCamelPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/StudyCatPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/StudyDogPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/StudyDonkeyPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/StudyHamsterPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenters/StudyHorsePresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Base/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Base/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/ConsoleUi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/AddAnimalMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyCamelMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyCatMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyDogMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyDonkeyMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyHamsterMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyHorseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/Menus/StudyMenu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XgTlKwYtb3hQnmizE9ou6BNJ4G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\Final_control_work_on_the_specialization_block" />
+      <recent name="E:\Java\Final_control_work_on_the_specialization_block\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2246cc2-ac5b-4f7c-9fbc-36498b6e7f43" name="Changes" comment="" />
+      <created>1699049874144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699049874144</updated>
+      <workItem from="1699049875769" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create code, images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create code, images" />
+  </component>
+</project>
